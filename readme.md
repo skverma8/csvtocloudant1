@@ -1,14 +1,5 @@
 #READ ME
 
-[Working UI](https://michellephung.github.io/CSVtoCloudant/)  
-
-This is a webpage which lets you drag and drop a .csv file and then edit how it will be loaded into a Cloudant Database
-
-[Website](https://michellephung.github.io/CSVtoCloudant/)
-
-[Download locally](https://github.com/michellephung/CSVtoCloudant) website to view source code
-
-[Fork](https://github.com/michellephung/CSVtoCloudant) (here)
 
 ==========
 
@@ -28,9 +19,7 @@ This is a webpage which lets you drag and drop a .csv file and then edit how it 
 3. If it doesn't, drag the file into your browser
 4. Use as you would the data importer on the Web
 
-[<img src="screenshots/FrontPage.png">](https://michellephung.github.io/CSVtoCloudant/)
-[<img src="screenshots/SecondPage.png">](https://michellephung.github.io/CSVtoCloudant/)
-[<img src="screenshots/jsonview.png">](https://michellephung.github.io/CSVtoCloudant/)
+
 
 File Will Fail to Load if:    
 - Incorrect Name or Password or Database  
